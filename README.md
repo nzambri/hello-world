@@ -1,7 +1,7 @@
 # hello-world 
 
 **a short description**
-* By Me, Nick *
+By Me, Nick*
 
 Some of my favorie foods to cook
 - Steak
